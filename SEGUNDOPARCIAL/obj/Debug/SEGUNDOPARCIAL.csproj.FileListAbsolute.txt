@@ -1,0 +1,9 @@
+C:\Users\anner\Documents\Parcial2-master\Parcial2\obj\Debug\SEGUNDOPARCIAL.Form1.resources
+C:\Users\anner\Documents\Parcial2-master\Parcial2\obj\Debug\Parcial2.Properties.Resources.resources
+C:\Users\anner\Documents\Parcial2-master\Parcial2\obj\Debug\SEGUNDOPARCIAL.csproj.GenerateResource.cache
+C:\Users\anner\Documents\Parcial2-master\Parcial2\obj\Debug\SEGUNDOPARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\anner\Documents\Parcial2-master\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\anner\Documents\Parcial2-master\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\anner\Documents\Parcial2-master\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\anner\Documents\Parcial2-master\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\anner\Documents\Parcial2-master\Parcial2\bin\Debug\Parcial2.pdb
